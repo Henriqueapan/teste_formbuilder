@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.build-wrap, #fb-rendered-form {
+    min-width: 50vw;
+    transform: translateY(40%);
+}
+
+#fb-rendered-form {
+    clear: both;
+    display: none;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 50vh;
+}
+
+#fb-rendered-form button {
+    float: right;
+}

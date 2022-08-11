@@ -1,0 +1,19 @@
+{
+  "name": "formbuilder_teste",
+  "version": "1.0.0",
+  "description": "Teste da ferramenta formBuilder",
+  "main": "index.js",
+  "dependencies": {
+    "formBuilder": "^3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote -v https://github.com/Henriqueapan/teste_formbuilder.git"
+  },
+  "author": "Henrique Andrade Pancotti",
+  "license": "ISC"
+}
